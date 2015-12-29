@@ -1,0 +1,9 @@
+[from]
+url = http://example.com/svn/branches/url1
+username = usera
+password = 111111
+ 
+[to]
+url = 	http://example.com/svn/branches/url2
+username = usera
+password = 111111
